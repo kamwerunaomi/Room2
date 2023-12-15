@@ -2,4 +2,4 @@ Name: Jermin Amarteifio
 Backgroud: Backend engineering
 Expectation from the course: New knowledge in cloud engineering
 Fun fact: I walk with my legs
-Which superpower do you wish you had?: Reading people's mind
+Which superpower do you wish you had?: Reading people's mind.
